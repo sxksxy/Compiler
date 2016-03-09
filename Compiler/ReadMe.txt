@@ -1,0 +1,14 @@
+assemble.txt：编译生成的类汇编语言
+FIRST.txt：文法FIRST集
+FLLOW.txt：文法FOLLOW集
+four_exp：四元式
+grammar.txt：文法
+id_table.txt：变量表
+main_table.txt：主表
+number_table.txt：数字表
+pre_list：预测分析表
+process.txt：分析过程
+program.txt：源程序
+SELECT.txt：文法SELECT集
+twox.txt：
+word_grammar_translation.txt：系统代码
